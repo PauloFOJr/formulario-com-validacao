@@ -32,7 +32,7 @@ imagem em anexo na aula.
 
 ### Links
 
-- URL do site ativo:(https://paulofojr.github.io//)
+- URL do site ativo:(https://paulofojr.github.io/formulario-com-validacao/)
 
 ### Meu processo
 
