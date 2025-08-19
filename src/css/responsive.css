@@ -1,0 +1,32 @@
+@media (max-width: 600px) {
+    .duvidas {
+        flex-direction: column;       
+    }
+    .pergunta {
+        padding-right: 0px;
+        padding-bottom: 20px;
+}
+}
+
+@media (max-width: 400px) {
+    .formulario {
+        width: 90%;
+        height: auto;
+        padding: 10px;
+    }
+
+    .pergunta {
+        width: 90%;
+        padding-right: 15px;
+    }
+    .caixa, .caixa-maior {
+        width: 100%;
+    }
+
+    .btn {
+    width: 100%;        
+    }
+
+
+}
+
